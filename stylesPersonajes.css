@@ -72,6 +72,7 @@ section{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
+    justify-content: space-around;
 }
 .card{
     position: relative;
